@@ -5,7 +5,7 @@
 
 We constantly sweep the web to catalog the highest potential .MOV one-word domains still available to buy.
 
-This dataset contains 4,899 .MOV one word domains with availability, attractiveness and demand scores.
+This dataset contains 4,901 .MOV one word domains with availability, attractiveness and demand scores.
 
 If you want to search & filters the complete database of [.MOV one word domains](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=mov-oneword-domains&utm_content=description.top) (4,899) and analyse SEO, demand and valuation, we've build unique.domains, a SaaS designed for domain investors and solopreneurs.
 
@@ -21,7 +21,7 @@ If you want to search & filters the complete database of [.MOV one word domains]
 
 | Domain         | Status    | Attract. | Demand | Length | Registrar | Created | Expires |
 | -------------- | --------- | -------- | ------ | ------ | --------- | ------- | ------- |
-| aaron.mov      | available | 88       | 32%    | 5      |           |         |         |
+| aaron.mov      | premium   | 88       | 32%    | 5      |           |         |         |
 | abactinal.mov  | available | 50       | 1%     | 9      |           |         |         |
 | abaft.mov      | available | 43       | 2%     | 5      |           |         |         |
 | abandoned.mov  | premium   | 58       | 7%     | 9      |           |         |         |
@@ -31,7 +31,7 @@ If you want to search & filters the complete database of [.MOV one word domains]
 | abatic.mov     | available | 54       | 2%     | 6      |           |         |         |
 | abaxial.mov    | available | 54       | 2%     | 7      |           |         |         |
 | abbatial.mov   | available | 50       | 1%     | 8      |           |         |         |
-| abc.mov        | available | 102      | 41%    | 3      |           |         |         |
+| abc.mov        | premium   | 102      | 41%    | 3      |           |         |         |
 | abdicable.mov  | available | 50       | 1%     | 9      |           |         |         |
 | abdominal.mov  | available | 82       | 5%     | 9      |           |         |         |
 | abdominous.mov | available | 56       | 1%     | 10     |           |         |         |
