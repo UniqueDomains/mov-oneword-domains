@@ -81,7 +81,7 @@ print(df.head())
 | live.mov       | premium   | $1,248.75 | $1,248.75     | 108            | 56     | 4      | name.com    |
 | abundant.mov   | available | $15.98    | —             | 80             | 21     | 8      | namecheap   |
 | data.mov       | premium   | $648.70   | $648.70       | 70             | 56     | 4      | namecheap   |
-| cooked.mov     | available | $15.98    | —             | 70             | 21     | 6      | namecheap   |
+| cooked.mov     | available | $15.98    | —             | 70             | 20     | 6      | namecheap   |
 | zero.mov       | premium   | $623.75   | $623.75       | 112            | 53     | 4      | name.com    |
 | diligent.mov   | available | $15.98    | —             | 68             | 20     | 8      | namecheap   |
 
