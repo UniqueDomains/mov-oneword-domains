@@ -16,7 +16,7 @@ Daily-updated dataset of available and resale .mov one-word domains from Unique 
 
 **Public extract:** 9,820 rows · **Live catalog:** 9,820 domains
 
-**Last updated:** 2026-04-12  
+**Last updated:** 2026-04-13  
 **Canonical page:** `https://unique.domains/domains/tld/mov`  
 **Best for:** founders, investors, studios
 
@@ -82,7 +82,7 @@ print(df.head())
 | abundant.mov   | available | $15.98    | —             | 80             | 21     | 8      | namecheap   |
 | data.mov       | premium   | $648.70   | $648.70       | 70             | 56     | 4      | namecheap   |
 | cooked.mov     | available | $15.98    | —             | 70             | 21     | 6      | namecheap   |
-| alpha.mov      | premium   | $1,248.75 | $1,248.75     | 90             | 54     | 5      | name.com    |
+| zero.mov       | premium   | $623.75   | $623.75       | 112            | 53     | 4      | name.com    |
 | diligent.mov   | available | $15.98    | —             | 68             | 20     | 8      | namecheap   |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .MOV One-Word Domains*. Version 2026-04-12. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .MOV One-Word Domains*. Version 2026-04-13. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
