@@ -14,9 +14,9 @@ Daily-updated public extract of available and resale .mov one-word domains from 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
 > The full live catalog for this exact search currently contains **12,795 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 12,795 domains
+**Public extract:** 1,000 rows · **Live catalog:** 12,795 domains · **Median ask:** $80.35 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-01  
+**Last updated:** 2026-05-06  
 **Canonical page:** `https://unique.domains/domains/tld/mov`  
 **Best for:** founders, investors, studios
 
@@ -64,26 +64,26 @@ print(df.head())
 
 | domain            | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
 | ----------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
+| barup.mov         | available | $15.98    | —             | 82             | 2      | 6      | namecheap |
+| toneup.mov        | available | $15.98    | —             | 80             | 5      | 7      | namecheap |
+| pierogi.mov       | available | $15.98    | —             | 82             | 7      | 7      | namecheap |
+| stirup.mov        | available | $15.98    | —             | 82             | 3      | 7      | namecheap |
+| getlife.mov       | available | $15.98    | —             | 80             | 5      | 8      | namecheap |
+| Snickers.mov      | available | $15.98    | —             | 80             | 10     | 8      | namecheap |
+| fitinto.mov       | available | $15.98    | —             | 84             | 2      | 8      | namecheap |
+| chaitea.mov       | available | $15.98    | —             | 86             | 3      | 8      | namecheap |
+| keepfit.mov       | available | $15.98    | —             | 86             | 9      | 8      | namecheap |
+| bedframe.mov      | available | $15.98    | —             | 80             | 3      | 9      | namecheap |
+| flaxseed.mov      | available | $15.98    | —             | 80             | 4      | 9      | namecheap |
+| getjiggy.mov      | available | $15.98    | —             | 80             | 2      | 9      | namecheap |
+| makenews.mov      | available | $15.98    | —             | 80             | 1      | 9      | namecheap |
+| midautumn.mov     | available | $15.98    | —             | 80             | 2      | 9      | namecheap |
+| jetblack.mov      | available | $15.98    | —             | 82             | 8      | 9      | namecheap |
 | keepthechange.mov | available | $15.98    | —             | 46             | 59     | 15     | namecheap |
 | makers.mov        | premium   | $161.25   | —             | 62             | 67     | 6      | name.com  |
 | commonground.mov  | available | $15.98    | —             | 74             | 28     | 13     | namecheap |
 | agents.mov        | premium   | $311.25   | —             | 56             | 50     | 6      | name.com  |
 | Allie.mov         | available | $15.98    | —             | 72             | 21     | 5      | namecheap |
-| robots.mov        | premium   | $1,248.75 | —             | 62             | 47     | 6      | name.com  |
-| lostandfound.mov  | available | $15.98    | —             | 64             | 19     | 14     | namecheap |
-| jobs.mov          | premium   | $1,248.75 | —             | 79             | 42     | 4      | name.com  |
-| enlightenment.mov | available | $15.98    | —             | 62             | 18     | 13     | namecheap |
-| matcha.mov        | premium   | $73.75    | —             | 86             | 39     | 6      | name.com  |
-| goviral.mov       | available | $15.98    | —             | 76             | 17     | 8      | namecheap |
-| justin.mov        | premium   | $311.25   | —             | 58             | 38     | 7      | name.com  |
-| jetlag.mov        | available | $15.98    | —             | 72             | 17     | 7      | namecheap |
-| etc.mov           | premium   | $623.75   | —             | 58             | 34     | 3      | name.com  |
-| postbox.mov       | available | $15.98    | —             | 72             | 17     | 8      | namecheap |
-| Cats.mov          | premium   | $1,398.60 | $1,398.60     | 59             | 33     | 4      | namecheap |
-| intune.mov        | available | $15.98    | —             | 72             | 16     | 7      | namecheap |
-| partners.mov      | premium   | $161.25   | —             | 61             | 32     | 8      | name.com  |
-| dataflow.mov      | available | $15.98    | —             | 70             | 16     | 9      | namecheap |
-| slots.mov         | premium   | $1,248.75 | —             | 49             | 31     | 5      | name.com  |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -91,13 +91,13 @@ These rows are selected to show a more legible mix of visible asks, resale conte
 
 You are seeing the public sample. Unique Domains keeps the exact search context and adds saved workflows, deeper filters, and alerting.
 
-| GitHub extract          | Unique Domains                                   |
-| ----------------------- | ------------------------------------------------ |
-| 1,000-row public sample | 12,795 live domains                              |
-| Static CSV / JSON       | live search and daily refresh                    |
-| Basic exported fields   | deeper price, demand, risk, and workflow context |
-| No persistence          | Radar, saved search, and alerts                  |
-| No founder workflow     | Project, shortlist, and next-step workflow       |
+| GitHub extract          | Unique Domains                             |
+| ----------------------- | ------------------------------------------ |
+| 1,000-row public sample | 12,795 live domains                        |
+| Static CSV / JSON       | live search and daily refresh              |
+| Basic exported fields   | 0 high-demand names under $2,500           |
+| No persistence          | Radar, saved search, and alerts            |
+| No founder workflow     | Project, shortlist, and next-step workflow |
 
 If this sample already feels useful, Unique Domains is where the exact search becomes a workflow.
 
@@ -120,13 +120,12 @@ See [DATA_DICTIONARY.md](./DATA_DICTIONARY.md) for full definitions and types.
 
 ## ⚠️ Methodology and caveats
 
-This repository follows the exact public search represented by the canonical page above.
+This selection is defined by a single trait: every domain uses the .mov extension. That makes the set highly specific and unconventional. Names such as Acup.mov, finals.mov, QandA.mov, and toneup.mov show the range, from short action phrases to dictionary words and food terms. For founders, the main question is whether a .mov ending strengthens recall or creates friction. For investors, the key issue is resale realism in a niche extension with limited mainstream comparables in the provided data. When comparing these domains, focus on word clarity, pronunciation, visual cleanliness, and whether the extension adds meaning or simply novelty.
 
-- This repository is a public extract, not the full live catalog.
-- Counts, prices, and statuses can change over time.
-- Scores are decision-support signals, not guarantees of resale value.
-- Trademark, SEO, and risk signals should be treated as screening inputs, not legal or specialist advice.
-- Unique Domains contains deeper filters, monitoring, and decision workflows than this public extract.
+- All names in this selection use the .mov extension
+- Median ask across the set is 80.35
+- Examples range from finals.mov to pierogi.mov
+- Prioritize clarity, recall, and extension fit
 
 See [METHODOLOGY.md](./METHODOLOGY.md) for the full methodology reference.
 
@@ -143,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .MOV One-Word Domains*. Version 2026-05-01. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .MOV One-Word Domains*. Version 2026-05-06. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
