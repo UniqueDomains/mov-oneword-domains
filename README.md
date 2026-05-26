@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .mov one-word domains from 
 
 **Public extract:** 1,000 rows · **Live catalog:** 12,795 domains · **Median ask:** $80.35 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-15  
+**Last updated:** 2026-05-26  
 **Canonical page:** `https://unique.domains/domains/tld/mov`  
 **Best for:** founders, investors, studios
 
@@ -70,7 +70,7 @@ print(df.head())
 | stirup.mov        | available | $15.98    | —             | 82             | 3      | 7      | namecheap |
 | getlife.mov       | available | $15.98    | —             | 80             | 5      | 8      | namecheap |
 | Snickers.mov      | available | $15.98    | —             | 80             | 10     | 8      | namecheap |
-| fitinto.mov       | available | $15.98    | —             | 84             | 2      | 8      | namecheap |
+| fitinto.mov       | available | $15.98    | —             | 84             | 1      | 8      | namecheap |
 | chaitea.mov       | available | $15.98    | —             | 86             | 3      | 8      | namecheap |
 | keepfit.mov       | available | $15.98    | —             | 86             | 9      | 8      | namecheap |
 | bedframe.mov      | available | $15.98    | —             | 80             | 3      | 9      | namecheap |
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .MOV One-Word Domains*. Version 2026-05-15. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .MOV One-Word Domains*. Version 2026-05-26. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
