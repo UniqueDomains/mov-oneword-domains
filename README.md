@@ -14,10 +14,10 @@ Daily-updated public extract of available and resale .mov one-word domains from 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
 > The full live catalog for this exact search currently contains **12,795 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 12,795 domains · **Median ask:** $80.35 · **High-demand under $2,500:** 0
+**Public extract:** 1,000 rows · **Live catalog:** 12,795 domains · **Median ask:** $117.54 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-26  
-**Canonical page:** `https://unique.domains/domains/tld/mov`  
+**Last updated:** 2026-07-07
+**Canonical page:** `https://unique.domains/domains/tld/mov`
 **Best for:** founders, investors, studios
 
 ---
@@ -43,13 +43,13 @@ This repository is the public extract for Unique Domains' .MOV one-word domain c
 
 ### Files
 
-- `mov.csv` — public CSV extract (1,000 rows)
-- `mov.json` — public JSON extract (1,000 rows)
-- `DATA_DICTIONARY.md` — field definitions for the exported files
-- `METHODOLOGY.md` — scope, refresh policy, and caveats
-- `CHANGELOG.md` — latest snapshot metadata
-- `CITATION.cff` — machine-readable dataset citation metadata
-- `LICENSE` — terms for the public extract
+- `mov.csv`, public CSV extract (1,000 rows)
+- `mov.json`, public JSON extract (1,000 rows)
+- `DATA_DICTIONARY.md`, field definitions for the exported files
+- `METHODOLOGY.md`, scope, refresh policy, and caveats
+- `CHANGELOG.md`, latest snapshot metadata
+- `CITATION.cff`, machine-readable dataset citation metadata
+- `LICENSE`, terms for the public extract
 
 ## 🧭 Quick start
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain            | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
-| ----------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
-| barup.mov         | available | $15.98    | —             | 82             | 2      | 6      | namecheap |
-| toneup.mov        | available | $15.98    | —             | 80             | 5      | 7      | namecheap |
-| pierogi.mov       | available | $15.98    | —             | 82             | 7      | 7      | namecheap |
-| stirup.mov        | available | $15.98    | —             | 82             | 3      | 7      | namecheap |
-| getlife.mov       | available | $15.98    | —             | 80             | 5      | 8      | namecheap |
-| Snickers.mov      | available | $15.98    | —             | 80             | 10     | 8      | namecheap |
-| fitinto.mov       | available | $15.98    | —             | 84             | 1      | 8      | namecheap |
-| chaitea.mov       | available | $15.98    | —             | 86             | 3      | 8      | namecheap |
-| keepfit.mov       | available | $15.98    | —             | 86             | 9      | 8      | namecheap |
-| bedframe.mov      | available | $15.98    | —             | 80             | 3      | 9      | namecheap |
-| flaxseed.mov      | available | $15.98    | —             | 80             | 4      | 9      | namecheap |
-| getjiggy.mov      | available | $15.98    | —             | 80             | 2      | 9      | namecheap |
-| makenews.mov      | available | $15.98    | —             | 80             | 1      | 9      | namecheap |
-| midautumn.mov     | available | $15.98    | —             | 80             | 2      | 9      | namecheap |
-| jetblack.mov      | available | $15.98    | —             | 82             | 8      | 9      | namecheap |
-| keepthechange.mov | available | $15.98    | —             | 46             | 59     | 15     | namecheap |
-| makers.mov        | premium   | $161.25   | —             | 62             | 67     | 6      | name.com  |
-| commonground.mov  | available | $15.98    | —             | 74             | 28     | 13     | namecheap |
-| agents.mov        | premium   | $311.25   | —             | 56             | 50     | 6      | name.com  |
-| Allie.mov         | available | $15.98    | —             | 72             | 21     | 5      | namecheap |
+| domain        | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
+| ------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
+| action.mov    | premium   | $623.75   | —             | high           | medium | 6      | name.com  |
+| something.mov | premium   | $161.25   | —             | high           | low    | 9      | name.com  |
+| howl.mov      | available | $15.98    | —             | high           | low    | 4      | namecheap |
+| add.mov       | premium   | $623.75   | —             | high           | low    | 3      | name.com  |
+| jeep.mov      | available | $15.98    | —             | medium         | medium | 4      | namecheap |
+| bce.mov       | premium   | $73.75    | —             | medium         | low    | 3      | name.com  |
+| numb.mov      | available | $15.98    | —             | high           | low    | 4      | namecheap |
+| btw.mov       | premium   | $73.75    | —             | high           | low    | 3      | name.com  |
+| veal.mov      | available | $15.98    | —             | medium         | low    | 4      | namecheap |
+| dad.mov       | premium   | $623.75   | —             | high           | low    | 3      | name.com  |
+| aftuh.mov     | available | $15.98    | —             | medium         | low    | 5      | namecheap |
+| dry.mov       | premium   | $311.25   | $311.25       | high           | low    | 3      | name.com  |
+| asof.mov      | available | $15.98    | —             | medium         | low    | 5      | namecheap |
+| dvd.mov       | premium   | $623.75   | —             | high           | low    | 3      | name.com  |
+| girth.mov     | available | $15.98    | —             | high           | low    | 5      | namecheap |
+| ego.mov       | premium   | $161.25   | —             | medium         | low    | 3      | name.com  |
+| guilt.mov     | available | $15.98    | —             | high           | low    | 5      | namecheap |
+| fit.mov       | premium   | $1,248.75 | —             | high           | medium | 3      | name.com  |
+| needy.mov     | available | $15.98    | —             | medium         | low    | 5      | namecheap |
+| gal.mov       | premium   | $73.75    | —             | medium         | low    | 3      | name.com  |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -105,27 +105,27 @@ If this sample already feels useful, Unique Domains is where the exact search be
 
 ## 🧱 Field summary
 
-- `domain` — Fully qualified domain name.
-- `status` — Current acquisition state for the domain in the public extract.
-- `purchase_price` — Visible purchase price when available.
-- `renewal_price` — Visible renewal price when available.
-- `attractiveness` — Composite naming score used as a decision-support signal.
-- `demand` — Relative buyer-pressure score when available.
-- `length` — Character count without the TLD.
-- `registrar` — Registrar name when known.
-- `created_at` — Creation timestamp when known.
-- `expires_at` — Expiry timestamp when known.
+- `domain`, Fully qualified domain name.
+- `status`, Current acquisition state for the domain in the public extract.
+- `purchase_price`, Visible purchase price when available.
+- `renewal_price`, Visible renewal price when available.
+- `attractiveness`, Public composite naming band used as a decision-support signal.
+- `demand`, Public buyer-pressure band when available.
+- `length`, Character count without the TLD.
+- `registrar`, Registrar name when known.
+- `created_at`, Creation timestamp when known.
+- `expires_at`, Expiry timestamp when known.
 
 See [DATA_DICTIONARY.md](./DATA_DICTIONARY.md) for full definitions and types.
 
 ## ⚠️ Methodology and caveats
 
-This selection is defined by a single trait: every domain uses the .mov extension. That makes the set highly specific and unconventional. Names such as Acup.mov, finals.mov, QandA.mov, and toneup.mov show the range, from short action phrases to dictionary words and food terms. For founders, the main question is whether a .mov ending strengthens recall or creates friction. For investors, the key issue is resale realism in a niche extension with limited mainstream comparables in the provided data. When comparing these domains, focus on word clarity, pronunciation, visual cleanliness, and whether the extension adds meaning or simply novelty.
+This list covers one-word .mov domain names drawn from everyday English vocabulary — half, out, just, okay, feel, bad, great, correct, and sorry among them. The .mov extension is widely recognized as a video file format, which gives these names natural relevance for video, media, and creative-tool brands. Median ask across the set is about $118, putting many names within reach for early-stage evaluation. When comparing these domains, weigh word length, everyday recognizability, and how directly the word signals action or emotion relevant to a video or media product.
 
-- All names in this selection use the .mov extension
-- Median ask across the set is 80.35
-- Examples range from finals.mov to pierogi.mov
-- Prioritize clarity, recall, and extension fit
+- 12,795 one-word .mov names spanning everyday vocabulary
+- Median ask around $118 across this selection
+- .mov reads as video-native — fits media and creative brands
+- Shortlist by clarity, length, and brand fit before deciding
 
 See [METHODOLOGY.md](./METHODOLOGY.md) for the full methodology reference.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .MOV One-Word Domains*. Version 2026-05-26. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .MOV One-Word Domains*. Version 2026-07-07. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
