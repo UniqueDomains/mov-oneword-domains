@@ -14,9 +14,9 @@ Daily-updated public extract of available and resale .mov one-word domains from 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
 > The full live catalog for this exact search currently contains **12,795 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 12,795 domains · **Median ask:** $117.54 · **High-demand under $2,500:** 0
+**Public extract:** 1,000 rows · **Live catalog:** 12,795 domains · **Median ask:** $107.37 · **High-demand under $2,500:** 25
 
-**Last updated:** 2026-07-07
+**Last updated:** 2026-08-06
 **Canonical page:** `https://unique.domains/domains/tld/mov`
 **Best for:** founders, investors, studios
 
@@ -66,23 +66,23 @@ print(df.head())
 | ------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
 | action.mov    | premium   | $623.75   | —             | high           | medium | 6      | name.com  |
 | something.mov | premium   | $161.25   | —             | high           | low    | 9      | name.com  |
-| howl.mov      | available | $15.98    | —             | high           | low    | 4      | namecheap |
+| clxx.mov      | available | $12.98    | $15.98        | low            | low    | 4      | namecheap |
 | add.mov       | premium   | $623.75   | —             | high           | low    | 3      | name.com  |
-| jeep.mov      | available | $15.98    | —             | medium         | medium | 4      | namecheap |
+| howl.mov      | available | $15.98    | —             | high           | low    | 4      | namecheap |
 | bce.mov       | premium   | $73.75    | —             | medium         | low    | 3      | name.com  |
-| numb.mov      | available | $15.98    | —             | high           | low    | 4      | namecheap |
+| jeep.mov      | available | $15.98    | —             | medium         | medium | 4      | namecheap |
 | btw.mov       | premium   | $73.75    | —             | high           | low    | 3      | name.com  |
-| veal.mov      | available | $15.98    | —             | medium         | low    | 4      | namecheap |
+| lxxi.mov      | available | $12.98    | $15.98        | low            | low    | 4      | namecheap |
 | dad.mov       | premium   | $623.75   | —             | high           | low    | 3      | name.com  |
-| aftuh.mov     | available | $15.98    | —             | medium         | low    | 5      | namecheap |
+| numb.mov      | available | $15.98    | —             | high           | low    | 4      | namecheap |
 | dry.mov       | premium   | $311.25   | $311.25       | high           | low    | 3      | name.com  |
-| asof.mov      | available | $15.98    | —             | medium         | low    | 5      | namecheap |
+| veal.mov      | available | $15.98    | —             | medium         | low    | 4      | namecheap |
 | dvd.mov       | premium   | $623.75   | —             | high           | low    | 3      | name.com  |
-| girth.mov     | available | $15.98    | —             | high           | low    | 5      | namecheap |
+| xxxv.mov      | available | $12.98    | $15.98        | low            | low    | 4      | namecheap |
 | ego.mov       | premium   | $161.25   | —             | medium         | low    | 3      | name.com  |
-| guilt.mov     | available | $15.98    | —             | high           | low    | 5      | namecheap |
+| aftuh.mov     | available | $15.98    | —             | medium         | low    | 5      | namecheap |
 | fit.mov       | premium   | $1,248.75 | —             | high           | medium | 3      | name.com  |
-| needy.mov     | available | $15.98    | —             | medium         | low    | 5      | namecheap |
+| anile.mov     | available | $12.98    | $15.98        | low            | low    | 5      | namecheap |
 | gal.mov       | premium   | $73.75    | —             | medium         | low    | 3      | name.com  |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
@@ -95,7 +95,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 | ----------------------- | ------------------------------------------ |
 | 1,000-row public sample | 12,795 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
-| Basic exported fields   | 0 high-demand names under $2,500           |
+| Basic exported fields   | 25 high-demand names under $2,500          |
 | No persistence          | Radar, saved search, and alerts            |
 | No founder workflow     | Project, shortlist, and next-step workflow |
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .MOV One-Word Domains*. Version 2026-07-07. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .MOV One-Word Domains*. Version 2026-08-06. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
