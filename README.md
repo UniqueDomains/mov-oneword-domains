@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .mov one-word domains from 
 
 **Public extract:** 1,000 rows · **Live catalog:** 17,762 domains · **Median ask:** $79.82 · **High-demand under $2,500:** 27
 
-**Last updated:** 2026-08-19
+**Last updated:** 2026-08-20
 **Canonical page:** `https://unique.domains/domains/tld/mov`
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain     | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
-| ---------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
-| action.mov | premium   | $623.75   | —             | high           | medium | 6      | name.com  |
-| clxx.mov   | available | $12.98    | $15.98        | low            | low    | 4      | namecheap |
-| add.mov    | premium   | $623.75   | —             | high           | low    | 3      | name.com  |
-| howl.mov   | available | $15.98    | —             | high           | low    | 4      | namecheap |
-| bce.mov    | premium   | $73.75    | —             | medium         | low    | 3      | name.com  |
-| jeep.mov   | available | $15.98    | —             | medium         | medium | 4      | namecheap |
-| btw.mov    | premium   | $73.75    | —             | high           | low    | 3      | name.com  |
-| lxxi.mov   | available | $12.98    | $15.98        | low            | low    | 4      | namecheap |
-| dad.mov    | premium   | $623.75   | —             | high           | low    | 3      | name.com  |
-| numb.mov   | available | $15.98    | —             | high           | low    | 4      | namecheap |
-| dry.mov    | premium   | $311.25   | $311.25       | high           | low    | 3      | name.com  |
-| veal.mov   | available | $15.98    | —             | medium         | low    | 4      | namecheap |
-| dvd.mov    | premium   | $623.75   | —             | high           | low    | 3      | name.com  |
-| xxxv.mov   | available | $12.98    | $15.98        | low            | low    | 4      | namecheap |
-| ego.mov    | premium   | $161.25   | —             | medium         | low    | 3      | name.com  |
-| aftuh.mov  | available | $15.98    | —             | medium         | low    | 5      | namecheap |
-| fit.mov    | premium   | $1,248.75 | —             | high           | medium | 3      | name.com  |
-| anile.mov  | available | $12.98    | $15.98        | low            | low    | 5      | namecheap |
-| gal.mov    | premium   | $73.75    | —             | medium         | low    | 3      | name.com  |
-| ashen.mov  | available | $12.98    | $15.98        | low            | low    | 5      | namecheap |
+| domain    | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
+| --------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
+| clxx.mov  | available | $12.98    | $15.98        | low            | low    | 4      | namecheap |
+| add.mov   | premium   | $623.75   | —             | high           | low    | 3      | name.com  |
+| howl.mov  | available | $15.98    | —             | high           | low    | 4      | namecheap |
+| bce.mov   | premium   | $73.75    | —             | medium         | low    | 3      | name.com  |
+| jeep.mov  | available | $15.98    | —             | medium         | medium | 4      | namecheap |
+| btw.mov   | premium   | $73.75    | —             | high           | low    | 3      | name.com  |
+| lxxi.mov  | available | $12.98    | $15.98        | low            | low    | 4      | namecheap |
+| dad.mov   | premium   | $623.75   | —             | high           | low    | 3      | name.com  |
+| numb.mov  | available | $15.98    | —             | high           | low    | 4      | namecheap |
+| dry.mov   | premium   | $311.25   | $311.25       | high           | low    | 3      | name.com  |
+| veal.mov  | available | $15.98    | —             | medium         | low    | 4      | namecheap |
+| dvd.mov   | premium   | $623.75   | —             | high           | low    | 3      | name.com  |
+| xxxv.mov  | available | $12.98    | $15.98        | low            | low    | 4      | namecheap |
+| ego.mov   | premium   | $161.25   | —             | medium         | low    | 3      | name.com  |
+| aftuh.mov | available | $15.98    | —             | medium         | low    | 5      | namecheap |
+| fit.mov   | premium   | $1,248.75 | —             | high           | medium | 3      | name.com  |
+| anile.mov | available | $12.98    | $15.98        | low            | low    | 5      | namecheap |
+| gal.mov   | premium   | $73.75    | —             | medium         | low    | 3      | name.com  |
+| ashen.mov | available | $12.98    | $15.98        | low            | low    | 5      | namecheap |
+| hug.mov   | premium   | $73.75    | —             | high           | low    | 3      | name.com  |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .MOV One-Word Domains*. Version 2026-08-19. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .MOV One-Word Domains*. Version 2026-08-20. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
