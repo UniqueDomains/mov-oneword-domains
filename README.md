@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .mov one-word domains from 
 
 **Public extract:** 1,000 rows · **Live catalog:** 25,580 domains · **Median ask:** $62.89 · **High-demand under $2,500:** 37
 
-**Last updated:** 2026-09-15
+**Last updated:** 2026-09-16
 **Canonical page:** `https://unique.domains/domains/tld/mov`
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain      | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
-| ----------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
-| picture.mov | premium   | $311.25   | —             | high           | low    | 7      | name.com  |
-| clxx.mov    | available | $12.98    | $15.98        | low            | low    | 4      | namecheap |
-| add.mov     | premium   | $623.75   | —             | high           | low    | 3      | name.com  |
-| howl.mov    | available | $15.98    | —             | high           | low    | 4      | namecheap |
-| bce.mov     | premium   | $73.75    | —             | medium         | low    | 3      | name.com  |
-| jeep.mov    | available | $15.98    | —             | medium         | medium | 4      | namecheap |
-| btw.mov     | premium   | $73.75    | —             | high           | low    | 3      | name.com  |
-| lxxi.mov    | available | $12.98    | $15.98        | low            | low    | 4      | namecheap |
-| dad.mov     | premium   | $623.75   | —             | high           | low    | 3      | name.com  |
-| numb.mov    | available | $15.98    | —             | high           | low    | 4      | namecheap |
-| dry.mov     | premium   | $311.25   | $311.25       | high           | low    | 3      | name.com  |
-| veal.mov    | available | $15.98    | —             | medium         | low    | 4      | namecheap |
-| dvd.mov     | premium   | $623.75   | —             | high           | low    | 3      | name.com  |
-| xxxv.mov    | available | $12.98    | $15.98        | low            | low    | 4      | namecheap |
-| ego.mov     | premium   | $161.25   | —             | medium         | low    | 3      | name.com  |
-| aftuh.mov   | available | $15.98    | —             | medium         | low    | 5      | namecheap |
-| fit.mov     | premium   | $1,248.75 | —             | high           | medium | 3      | name.com  |
-| anile.mov   | available | $12.98    | $15.98        | low            | low    | 5      | namecheap |
-| gal.mov     | premium   | $73.75    | —             | medium         | low    | 3      | name.com  |
-| ashen.mov   | available | $12.98    | $15.98        | low            | low    | 5      | namecheap |
+| domain    | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
+| --------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
+| clxx.mov  | available | $12.98    | $15.98        | low            | low    | 4      | namecheap |
+| add.mov   | premium   | $623.75   | —             | high           | low    | 3      | name.com  |
+| howl.mov  | available | $15.98    | —             | high           | low    | 4      | namecheap |
+| bce.mov   | premium   | $73.75    | —             | medium         | low    | 3      | name.com  |
+| jeep.mov  | available | $15.98    | —             | medium         | medium | 4      | namecheap |
+| btw.mov   | premium   | $73.75    | —             | high           | low    | 3      | name.com  |
+| lxxi.mov  | available | $12.98    | $15.98        | low            | low    | 4      | namecheap |
+| dad.mov   | premium   | $623.75   | —             | high           | low    | 3      | name.com  |
+| numb.mov  | available | $15.98    | —             | high           | low    | 4      | namecheap |
+| dry.mov   | premium   | $311.25   | $311.25       | high           | low    | 3      | name.com  |
+| veal.mov  | available | $15.98    | —             | medium         | low    | 4      | namecheap |
+| dvd.mov   | premium   | $623.75   | —             | high           | low    | 3      | name.com  |
+| xxxv.mov  | available | $12.98    | $15.98        | low            | low    | 4      | namecheap |
+| ego.mov   | premium   | $161.25   | —             | medium         | low    | 3      | name.com  |
+| aftuh.mov | available | $15.98    | —             | medium         | low    | 5      | namecheap |
+| fit.mov   | premium   | $1,248.75 | —             | high           | medium | 3      | name.com  |
+| anile.mov | available | $12.98    | $15.98        | low            | low    | 5      | namecheap |
+| gal.mov   | premium   | $73.75    | —             | medium         | low    | 3      | name.com  |
+| ashen.mov | available | $12.98    | $15.98        | low            | low    | 5      | namecheap |
+| hug.mov   | premium   | $73.75    | —             | high           | low    | 3      | name.com  |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -115,6 +115,7 @@ If this sample already feels useful, Unique Domains is where the exact search be
 - `registrar`, Registrar name when known.
 - `created_at`, Creation timestamp when known.
 - `expires_at`, Expiry timestamp when known.
+- `status_verified_at`, When status was last established against the registry. Null means never checked.
 
 See [DATA_DICTIONARY.md](./DATA_DICTIONARY.md) for full definitions and types.
 
@@ -132,6 +133,7 @@ See [METHODOLOGY.md](./METHODOLOGY.md) for the full methodology reference.
 ## 🔄 Update policy
 
 - This repository is refreshed regularly from the same export pipeline used for public dataset repos.
+- The snapshot date above is when this file was written, not when each row was checked. Read `status_verified_at` for that: a name whose status was last established months ago is exported with its real date rather than the snapshot's.
 - The README count targets the live catalog count from the public landing response when available.
 - The CSV and JSON files contain the public extract only and may not match the full live catalog size.
 - Stable historical references should be published via GitHub Releases outside this repository snapshot.
@@ -142,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .MOV One-Word Domains*. Version 2026-09-15. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .MOV One-Word Domains*. Version 2026-09-16. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
