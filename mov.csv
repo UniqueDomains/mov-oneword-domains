@@ -4,7 +4,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 745f8ad9-2994-4a2d-a6e6-d0e37b248503,previously.mov,available,15.98,,medium,low,10,namecheap,,,
 7ef95ec2-917c-4f82-b37c-855688f4e594,dominating.mov,available,12.98,15.98,low,low,10,namecheap,,,07/08/2026 19:40
 c449336d-a55b-4fb6-ba0b-8241a82a251f,anomic.mov,available,12.98,15.98,low,low,6,namecheap,,,
-f984fa53-3b41-4f0d-80db-0370d0929e48,bizarre.mov,premium,73.75,,high,low,7,name.com,,,
+f984fa53-3b41-4f0d-80db-0370d0929e48,bizarre.mov,premium,76.7,76.7,medium,low,7,namecheap,,,22/09/2026 21:11
 d8e95d88-a90a-47db-8b9b-aadaf064e917,belittled.mov,available,12.98,15.98,low,low,9,namecheap,,,09/08/2026 13:06
 1a7cae30-0761-4e5a-ae5c-eb82d5b0d939,outsideof.mov,available,15.98,,medium,low,10,namecheap,,,
 234b8827-0fb5-496e-b573-da850243ec3b,idcard.mov,premium,36.25,,high,low,7,name.com,,,
@@ -26,7 +26,7 @@ ef599dfd-98d2-442e-913f-c37cbb5f8e38,ancillary.mov,available,12.98,15.98,low,low
 63038cb0-69d8-46d8-8da4-d2659272febd,oneyear.mov,available,12.98,15.98,medium,low,8,namecheap,,,
 1ee35fa6-c4cf-4091-aef7-2fa5e6bdc7af,rein.mov,premium,36.25,,high,low,4,name.com,,,
 e8f0eae2-6331-4086-9c38-628a9038edd5,centralised.mov,available,15.98,,medium,low,11,namecheap,,,
-94b1b7ec-2da1-4d1f-8886-a13b230b2149,asthmatic.mov,available,15.98,,medium,low,9,namecheap,,,
+94b1b7ec-2da1-4d1f-8886-a13b230b2149,asthmatic.mov,available,12.98,15.98,low,low,9,namecheap,,,22/09/2026 10:23
 c5ac422d-ca8e-4663-9e60-07fd5b504cb5,thelike.mov,available,15.98,,medium,low,8,namecheap,,,
 ed0fd3f4-7acc-4ad6-b720-e85d81537a79,childsexualabuse.mov,available,15.98,,medium,low,18,namecheap,,,
 83e47039-e002-435e-a017-fbb7428bf699,seized.mov,available,15.98,,medium,low,6,namecheap,,,
@@ -43,7 +43,7 @@ b441aaec-da4f-4c4b-9641-7d4359824851,royalblue.mov,available,15.98,,high,low,10,
 f08e2ff4-c29c-42d4-90fa-a1f125cf7536,inhale.mov,available,15.98,,high,low,6,namecheap,,,
 cfc30446-2a30-4e58-a72a-e6f377cebd09,themorethemerrier.mov,available,15.98,,medium,low,20,namecheap,,,
 a1b71a0f-2e79-40f5-8e6b-a9c8330a3efa,conform.mov,available,15.98,,high,low,7,namecheap,,,
-81b78163-696a-4300-a92f-048da8a4d66e,adjusted.mov,available,15.98,,high,low,8,namecheap,,,
+81b78163-696a-4300-a92f-048da8a4d66e,adjusted.mov,available,12.98,15.98,medium,low,8,namecheap,,,21/09/2026 18:42
 10a53d6d-f034-448e-b3d2-d8d159a9c5c5,antemortem.mov,available,12.98,15.98,low,low,10,namecheap,,,
 b4eb7285-7616-448d-b09f-83743431ec70,sob.mov,premium,73.75,73.75,low,low,3,name.com,,,08/08/2026 23:48
 29ef9c47-d6e5-4c02-9c32-ccac2392f01c,asthecasemaybe.mov,available,15.98,,medium,low,18,namecheap,,,
@@ -53,11 +53,11 @@ c0bc728b-6876-42b0-9acb-8526a9285e59,yeasty.mov,available,12.98,15.98,low,low,6,
 a1abd8a5-77a6-4f01-b05b-40eb8a1f3f4d,shoutout.mov,premium,36.25,,medium,low,9,name.com,,,
 1b62e3ef-3eab-49da-a226-ff9f52dae435,knockknock.mov,available,15.98,,high,low,11,namecheap,,,
 2bfbc8cf-6e9d-4615-9c4f-bd30f3522556,redplanet.mov,available,15.98,,medium,low,10,namecheap,,,
-4c6e9eb2-760c-417a-ac39-9a77fccaf73e,science.mov,premium,648.7,648.7,medium,low,7,namecheap,,,20/09/2026 21:50
+4c6e9eb2-760c-417a-ac39-9a77fccaf73e,science.mov,premium,648.7,648.7,medium,low,7,namecheap,,,23/09/2026 02:40
 ae5b9909-b3b9-4228-8bd3-359ccaa78bb5,molecules.mov,premium,36.25,,medium,low,9,name.com,,,
 045ae220-8678-4a74-a935-4ca2209b11fc,silotruck.mov,available,15.98,,medium,low,10,namecheap,,,
 b00f2d39-92e7-465a-a590-0457929ca042,garret.mov,available,12.98,15.98,low,low,6,namecheap,,,07/08/2026 15:51
-a68765cd-0e8b-40b3-b0bf-053a57c03316,riveting.mov,available,15.98,,high,low,8,namecheap,,,
+a68765cd-0e8b-40b3-b0bf-053a57c03316,riveting.mov,available,12.98,15.98,medium,low,8,namecheap,,,21/09/2026 15:09
 6378c9ab-c008-433d-a01e-312df4d079ca,jerky.mov,premium,36.25,36.25,low,low,5,name.com,,,06/08/2026 22:03
 a7b63951-78b4-40fe-8c8a-6268ecf1a1f5,newspaper.mov,premium,161.25,,high,low,9,name.com,,,
 6b12d29d-b755-4b53-af07-a8f70004abce,alkalizer.mov,available,12.98,15.98,low,low,9,namecheap,,,
@@ -104,7 +104,7 @@ f52a9148-5c91-4fd4-b1fd-a8e5dbbb252a,law.mov,premium,1298.7,1298.7,high,medium,3
 1daefc3a-c963-4edf-ab08-e05db0162bb4,processed.mov,available,12.98,15.98,low,low,9,namecheap,,,19/09/2026 13:08
 6a5862bd-391b-472e-86da-524b1f7bc8c5,ascendable.mov,available,12.98,15.98,low,low,10,namecheap,,,07/08/2026 00:35
 09eadf28-3254-4666-a33d-6da651cdc55a,rapidantigentest.mov,available,15.98,,high,low,18,namecheap,,,
-2d7abc2e-4e4c-4f9d-a025-a86c723bbaaa,accessory.mov,premium,73.75,73.75,high,low,9,name.com,,,
+2d7abc2e-4e4c-4f9d-a025-a86c723bbaaa,accessory.mov,premium,76.7,76.7,medium,low,9,namecheap,,,21/09/2026 15:35
 38e03b8b-406b-42a0-a5f9-0b7626223544,agonising.mov,available,12.98,15.98,low,low,9,namecheap,,,
 18452b72-90f3-4b90-aaf5-aa0bc1658715,astrocytic.mov,available,12.98,15.98,low,low,10,namecheap,,,07/08/2026 10:06
 73d44df0-0515-47fe-a56d-69a2a871118c,aqueous.mov,available,12.98,15.98,low,low,7,namecheap,,,06/08/2026 10:50
@@ -116,8 +116,8 @@ ca84c10c-ee78-4687-964c-48bff0d0cec3,tiptop.mov,premium,36.25,36.25,low,low,6,na
 69290c2f-f51c-4d9f-9ecb-2fc6c5871ad9,label.mov,premium,311.25,,high,low,5,name.com,,,
 4f72151a-6026-4169-8b93-c5d81ac1b76e,saintlike.mov,available,12.98,15.98,low,low,9,namecheap,,,
 bb5c806e-abc5-468f-972f-ca8a61c642d4,union.mov,premium,623.75,,high,low,5,name.com,,,
-4ad6310e-6b13-4935-bb86-2758fbfb6f16,bordered.mov,available,15.98,,medium,low,8,namecheap,,,
-2709bd42-a255-40da-8922-b1542cb58a5f,alltime.mov,premium,36.25,36.25,high,low,8,name.com,,,
+4ad6310e-6b13-4935-bb86-2758fbfb6f16,bordered.mov,available,12.98,15.98,low,low,8,namecheap,,,22/09/2026 23:55
+2709bd42-a255-40da-8922-b1542cb58a5f,alltime.mov,premium,37.7,37.7,medium,low,8,namecheap,,,22/09/2026 00:54
 abc643a4-774a-47f1-b861-94fa0f63ffe1,colors.mov,premium,623.75,,high,low,6,name.com,,,
 4b7aece4-ffea-4f02-91d1-2be0663653e2,azotic.mov,available,12.98,15.98,low,low,6,namecheap,,,08/08/2026 02:53
 6c8656aa-239f-4116-9bc1-66e7f419675f,xci.mov,premium,73.75,73.75,low,low,3,name.com,,,
@@ -131,7 +131,7 @@ bcc4fc12-13a7-4185-b772-70e0a9b5370d,apomictic.mov,available,12.98,15.98,low,low
 1e9ed5f6-a680-432a-95e6-05037fe01e70,prioritize.mov,available,15.98,,high,low,10,namecheap,,,
 bbed3de1-afb7-4883-b263-d2e0e024c276,babylonian.mov,available,12.98,15.98,low,low,10,namecheap,,,08/08/2026 03:58
 cfcb214b-8cf7-437d-ab90-37bb87ede22d,winover.mov,available,15.98,,high,low,8,namecheap,,,
-6859b97b-c1f4-453f-b8c6-e2d428fc979d,overseas.mov,premium,73.75,73.75,medium,low,8,name.com,,,
+6859b97b-c1f4-453f-b8c6-e2d428fc979d,overseas.mov,premium,76.7,76.7,low,low,8,namecheap,,,21/09/2026 14:34
 e612bed3-bb8a-4da9-9a4f-411d76289eec,appropriately.mov,available,15.98,,medium,low,13,namecheap,,,
 56a33cf2-411f-47be-bf36-099aa63b9ac9,falls.mov,premium,73.75,,high,low,5,name.com,,,
 99ae3a94-8fe8-4f8b-8781-0efa4406347f,katy.mov,premium,36.25,,high,low,4,name.com,,,
@@ -176,7 +176,7 @@ f9082650-8477-43eb-a681-44508e983cfe,getthepoint.mov,available,15.98,,high,low,1
 832d20ae-060e-43da-8afa-d258f2d151ac,topic.mov,premium,311.25,,high,low,5,name.com,,,
 5612af69-5cb5-4550-94a4-2cc85dc31ee8,streetcred.mov,available,15.98,,medium,low,11,namecheap,,,
 3f962be3-3f9f-4904-9a66-44998d94106c,rowingboat.mov,available,15.98,,high,low,11,namecheap,,,
-25ff7366-ff7b-4093-bea4-7c3b9305693a,accredited.mov,available,15.98,,medium,low,10,namecheap,,,
+25ff7366-ff7b-4093-bea4-7c3b9305693a,accredited.mov,available,12.98,15.98,low,low,10,namecheap,,,21/09/2026 15:54
 bb8802d7-93de-4147-921a-e62adfb783cc,keepopen.mov,available,15.98,,high,low,9,namecheap,,,
 77da2da6-0883-4d2a-84a3-acb27e517b60,luxembourg.mov,available,,,medium,low,10,,,,
 6577f2a6-72a7-4208-ab96-063eebe25e57,jointly.mov,available,15.98,,medium,low,7,namecheap,,,
@@ -212,7 +212,7 @@ c59a7e24-ad17-459f-949c-1f88d0d8fa4d,adidas.mov,available,15.98,,high,low,6,name
 1689b325-6f2e-4a7a-94cf-b024e23a0ab0,teamup.mov,premium,36.25,,high,low,7,name.com,,,
 05251b11-3298-4ef5-8065-76532b31387e,olympics.mov,available,15.98,,medium,low,8,namecheap,,,
 de0acdde-8702-48bc-9cdc-f469216dab9c,destructive.mov,available,15.98,,medium,low,11,namecheap,,,
-f89add66-d26d-43a3-809b-7e4680e5dcef,fifteen.mov,available,15.98,,high,low,7,namecheap,,,
+f89add66-d26d-43a3-809b-7e4680e5dcef,fifteen.mov,available,12.98,15.98,medium,low,7,namecheap,,,21/09/2026 11:44
 e1dc1c4c-8627-429f-b831-f4bb4c5bcb60,offhanded.mov,available,12.98,15.98,low,low,9,namecheap,,,
 71116ae7-7b69-4fe3-95ab-7344d1fe71eb,powers.mov,premium,311.25,,high,low,6,name.com,,,
 3fa7c70e-71b2-48bb-9383-cfef739cb06a,rigorous.mov,available,15.98,,medium,low,8,namecheap,,,
@@ -221,7 +221,7 @@ e1dc1c4c-8627-429f-b831-f4bb4c5bcb60,offhanded.mov,available,12.98,15.98,low,low
 95ef90f2-5dd9-4efb-9117-5f75798cfeb8,complex.mov,premium,311.25,311.25,high,low,7,name.com,,,
 4742f18d-139c-4b86-a573-89ae242332b0,treehugger.mov,available,15.98,,medium,low,11,namecheap,,,
 20a4a87e-3c33-4444-84c6-3a3f3ed3e166,deepest.mov,available,15.98,,medium,low,7,namecheap,,,
-ad412c6d-1b46-4617-bc9d-10b2dd019c0d,black.mov,premium,623.75,,high,medium,5,name.com,,,
+ad412c6d-1b46-4617-bc9d-10b2dd019c0d,black.mov,premium,648.7,648.7,medium,low,5,namecheap,,,22/09/2026 21:16
 8abafba0-08e7-48ca-8f68-b6c80a5c446f,artesian.mov,available,12.98,15.98,low,low,8,namecheap,,,06/08/2026 22:39
 f6d4cedc-2201-48c1-ae15-d92e7eaced23,spot.mov,premium,161.25,,high,medium,4,name.com,,,
 9fdcbb61-d003-412a-8497-c9c7fca68cdb,elegant.mov,premium,311.25,311.25,high,low,7,name.com,,,
@@ -281,7 +281,7 @@ cc380092-b986-4e72-94ef-8fb9a62b7b12,saucepan.mov,available,15.98,,high,low,8,na
 3a2e66fa-995a-4142-83f1-760c6a9c8b6f,hover.mov,premium,73.75,,medium,low,5,name.com,,,
 d2cd7166-4dad-484e-8660-6495934e0db7,ice.mov,premium,648.7,648.7,low,low,3,namecheap,,,19/09/2026 17:13
 75c2dd58-bcaf-482e-a27e-c58dc4b438ad,jamesbond.mov,available,15.98,,high,low,10,namecheap,,,
-35e60614-7cbe-4c3e-bce9-afab761dd918,boring.mov,premium,161.25,,medium,low,6,name.com,,,
+35e60614-7cbe-4c3e-bce9-afab761dd918,boring.mov,premium,161.25,161.25,low,low,6,name.com,,,23/09/2026 00:20
 8b97d4e6-e0e1-480b-8163-516915d93c77,derriere.mov,available,12.98,15.98,low,low,8,namecheap,,,09/08/2026 11:55
 e531d761-9f48-45c4-bd8b-7f15e38cf25c,aperiodic.mov,available,12.98,15.98,low,low,9,namecheap,,,05/08/2026 22:30
 0e9b2c91-e215-42a9-bcc7-c80e7b251748,picture.mov,premium,311.25,,high,low,7,name.com,,,
@@ -295,13 +295,13 @@ e41a6b02-423e-467e-80fa-0f5e42a688f1,pleasing.mov,available,15.98,,high,low,8,na
 c4f76256-9197-4171-bfa2-84e0da460488,reserve.mov,premium,311.25,311.25,low,low,7,name.com,,,06/08/2026 09:16
 4784f888-9f02-41ca-b0b0-1df4841b684a,bastioned.mov,available,12.98,15.98,low,low,9,namecheap,,,09/08/2026 00:12
 3fdcde1c-70f9-4925-9d65-27c058748f55,indianajones.mov,available,15.98,,high,low,13,namecheap,,,
-c72d4d48-321a-4d9c-a0cc-909d01453dda,before.mov,premium,161.25,161.25,high,low,6,name.com,,,
-1e6f986d-95f7-42d1-9ec9-c18ef82e1c97,adaptive.mov,premium,311.25,311.25,high,low,8,name.com,,,
+c72d4d48-321a-4d9c-a0cc-909d01453dda,before.mov,premium,167.7,167.7,medium,low,6,namecheap,,,21/09/2026 23:34
+1e6f986d-95f7-42d1-9ec9-c18ef82e1c97,adaptive.mov,premium,323.7,323.7,medium,low,8,namecheap,,,21/09/2026 16:55
 d3ea05f4-bae3-4076-b886-9d1080802e8b,question.mov,premium,161.25,,high,low,8,name.com,,,
 601f14a0-00f8-46c7-a731-220d5ff9683a,asterisked.mov,available,12.98,15.98,low,low,10,namecheap,,,07/08/2026 08:47
-39def032-770b-4701-9f7d-25aa8581581e,glad.mov,premium,36.25,,high,low,4,name.com,,,
+39def032-770b-4701-9f7d-25aa8581581e,glad.mov,premium,37.7,37.7,medium,low,4,namecheap,,,22/09/2026 18:28
 4048f1d3-7e31-4617-b0c3-5dd2dd6331cc,disturb.mov,available,15.98,,high,low,7,namecheap,,,
-ff1ee0b6-5d64-459c-b825-1082abdd3058,axial.mov,premium,73.75,,high,low,5,name.com,,,
+ff1ee0b6-5d64-459c-b825-1082abdd3058,axial.mov,premium,76.7,76.7,low,low,5,namecheap,,,22/09/2026 15:33
 2c9a2924-52f9-48f9-9347-440f9ae76a2a,ilikethat.mov,available,15.98,,medium,low,11,namecheap,,,
 ff3a1837-6bdc-491e-9341-20ccce124d95,tone.mov,premium,311.25,,medium,low,4,name.com,,,
 c1a8c731-a461-4964-b33b-21ecbfdaaf73,macedonia.mov,available,,,high,low,9,,,,
@@ -317,10 +317,10 @@ f8b378cc-fe30-48c6-91ca-64b77c7dd652,push.mov,premium,623.75,,high,low,4,name.co
 b6f4db09-e33d-4b3c-a02b-7fa7cbea5731,cracking.mov,available,12.98,15.98,low,low,8,namecheap,,,08/08/2026 12:25
 e3a6bea9-96a9-485f-94b4-9222b6e5a371,girth.mov,available,15.98,,high,low,5,namecheap,,,
 c0d3e60a-81d0-475d-909e-0daa92d738cf,gate.mov,premium,311.25,,high,low,4,name.com,,,
-7eb1c2bb-b2c8-4b64-b28d-6d852b384b77,blind.mov,premium,311.25,,medium,low,5,name.com,,,
+7eb1c2bb-b2c8-4b64-b28d-6d852b384b77,blind.mov,premium,323.7,323.7,medium,low,5,namecheap,,,22/09/2026 21:56
 a5801536-448a-47bc-bbd3-4fa538804df9,posting.mov,premium,161.25,,high,low,7,name.com,,,
-4ada5b02-0743-4f63-9281-cb8cb59348cc,abovecited.mov,available,15.98,,medium,low,11,namecheap,,,
-397db817-9552-4925-b960-f8d952c8b26f,activated.mov,premium,73.75,73.75,high,low,9,name.com,,,
+4ada5b02-0743-4f63-9281-cb8cb59348cc,abovecited.mov,available,15.98,,low,low,11,namecheap,,,
+397db817-9552-4925-b960-f8d952c8b26f,activated.mov,premium,76.7,76.7,medium,low,9,namecheap,,,21/09/2026 16:32
 0bd0c887-7a60-41be-8f69-74ea60bb0600,miserable.mov,available,12.98,15.98,low,low,9,namecheap,,,
 6197f369-f082-4922-a35c-2bd9cd0ee92a,nerd.mov,premium,161.25,,high,medium,4,name.com,,,
 1104f5a9-9c27-46cd-95ff-bad30ac042b9,idonotknowit.mov,available,15.98,,medium,low,16,namecheap,,,
@@ -353,7 +353,7 @@ d3899136-d328-46db-9a1b-cf03598e9067,server.mov,premium,623.75,,medium,medium,6,
 b5b628cc-5d6a-4494-9c7c-2c6e3189d319,plaguy.mov,available,12.98,15.98,low,low,6,namecheap,,,
 17e3ecad-d268-4273-88d5-0e3b968cf6d4,getrightwith.mov,available,15.98,,medium,low,14,namecheap,,,
 882d6daf-b13a-40f3-808c-dbe31cdbbebf,recoveredmemory.mov,available,15.98,,high,low,16,namecheap,,,
-9b109f75-713a-4791-ae80-ae4ec8d6fe8b,bluish.mov,available,15.98,,high,low,6,namecheap,,,
+9b109f75-713a-4791-ae80-ae4ec8d6fe8b,bluish.mov,available,12.98,15.98,low,low,6,namecheap,,,22/09/2026 22:47
 a44795aa-2b4c-495d-94c8-b1174d8fe0fa,archean.mov,available,12.98,15.98,low,low,7,namecheap,,,06/08/2026 15:05
 8d40b854-018e-4c7e-88bf-39dd94c8c5e1,specific.mov,premium,73.75,,high,low,8,name.com,,,
 aa3313e7-ae5d-4d12-a6b1-b99db2b85f83,sports.mov,premium,1298.7,1298.7,high,medium,6,namecheap,,,
@@ -375,7 +375,7 @@ a79e0d77-4685-47dc-a288-69a5be425747,provide.mov,premium,161.25,,high,low,7,name
 5f4459a5-de71-4af3-8cfb-6efe6e76c4a4,fatal.mov,premium,36.25,,high,low,5,name.com,,,
 6fca8aa7-74c8-49e8-b6b9-ee982a5a9d9d,gforce.mov,available,15.98,,high,low,7,namecheap,,,
 9073a3a9-7758-4338-ad85-ef7dda0dda74,competent.mov,available,15.98,,high,low,9,namecheap,,,
-81281635-5179-4253-aa22-bce1ab7226ac,abouteast.mov,available,15.98,,medium,low,10,namecheap,,,
+81281635-5179-4253-aa22-bce1ab7226ac,abouteast.mov,available,15.98,,low,low,10,namecheap,,,
 fdacd396-1c70-4622-9fe1-8b4c6d644e54,draggled.mov,available,12.98,15.98,low,low,8,namecheap,,,09/08/2026 07:33
 c0bb4eea-8e59-46dd-8bb8-147022f211f2,scientifically.mov,available,15.98,,medium,low,14,namecheap,,,
 8db0ce3e-c6cd-4049-90ae-c53d5dbbd7ab,balky.mov,available,12.98,15.98,low,low,5,namecheap,,,08/08/2026 09:55
@@ -391,7 +391,7 @@ ddebbc12-1548-4899-901b-2f8e0ac3724c,cook.mov,premium,623.75,,high,low,4,name.co
 50004787-47d6-4001-9542-28e643420817,choir.mov,premium,73.75,,high,low,5,name.com,,,
 2560fbb2-9e58-4309-8f4d-a18130b23988,diabetes.mov,premium,73.75,,medium,low,8,name.com,,,
 b8693c02-9beb-42ec-9f59-23ea95630c0d,evaluate.mov,premium,311.25,,high,low,8,name.com,,,
-843a53a5-8693-4e8f-8301-2765de2a5ee4,action.mov,premium,623.75,,high,medium,6,name.com,,,
+843a53a5-8693-4e8f-8301-2765de2a5ee4,action.mov,premium,648.7,648.7,medium,low,6,namecheap,,,23/09/2026 04:20
 ef5910cd-30d8-4ef0-8115-744521a82df5,applied.mov,premium,161.25,161.25,low,low,7,name.com,,,06/08/2026 07:11
 dff62e72-ff4a-4c5b-91fa-639d7d83e6ef,alterative.mov,available,12.98,15.98,low,low,10,namecheap,,,
 f9457e40-c2e0-4ade-b3b4-25a074573583,inplaceof.mov,available,15.98,,medium,low,11,namecheap,,,
@@ -411,7 +411,7 @@ f3743472-55f6-4d8a-8b4a-7620626c75c2,rodshaped.mov,available,12.98,15.98,low,low
 f51af3ac-3c29-4a59-accf-805b08c19188,dancehall.mov,available,15.98,,high,low,10,namecheap,,,
 41a81b64-87aa-4f13-ba4d-b96dd7022c6e,porticoed.mov,available,12.98,15.98,low,low,9,namecheap,,,
 941622c3-de3b-4a0c-8e91-0e5f5d0c0e32,makegood.mov,available,15.98,,high,low,9,namecheap,,,
-54cd0dfa-ed2d-48f3-bb9a-180af7ee6663,staring.mov,available,15.98,,medium,low,7,namecheap,,,
+54cd0dfa-ed2d-48f3-bb9a-180af7ee6663,staring.mov,available,12.98,15.98,low,low,7,namecheap,,,21/09/2026 22:19
 affd6249-a11f-41b8-8220-b726c83ad7ca,stranded.mov,available,15.98,,medium,low,8,namecheap,,,
 b7d08fdf-8572-441a-af0d-ca24e20c68c1,envious.mov,available,15.98,,medium,low,7,namecheap,,,
 23338b76-9c52-493b-89a4-e4b429e76b01,somebody.mov,premium,36.25,,high,low,8,name.com,,,
@@ -422,7 +422,7 @@ e4da19d5-7d5c-417b-8178-80b907ec838a,ones.mov,premium,161.25,,high,low,4,name.co
 b5129d12-1aad-46f4-b783-b2ddc6c42091,howl.mov,available,15.98,,high,low,4,namecheap,,,
 53422277-f44a-400e-b1f3-b6aa52f86bbb,boer.mov,premium,36.25,36.25,low,low,4,name.com,,,
 cdf08e30-8d69-4949-9095-33a9b3c4ee4a,batwing.mov,available,12.98,15.98,low,low,7,namecheap,,,09/08/2026 01:49
-59295316-91a0-4537-b44b-51185fee990f,attendant.mov,available,15.98,,high,low,9,namecheap,,,
+59295316-91a0-4537-b44b-51185fee990f,attendant.mov,available,12.98,15.98,medium,low,9,namecheap,,,21/09/2026 15:40
 0ad44f67-2626-40d6-8e4a-0a71efdbd349,wikimedia.mov,available,,,low,low,9,,,,
 40d6d0ac-9f42-4e74-ade4-80cd117765c6,east.mov,premium,623.75,623.75,high,low,4,name.com,,,
 f5ffc197-8917-4579-a011-b27173f8a6d5,irritating.mov,available,12.98,15.98,low,low,10,namecheap,,,
@@ -473,7 +473,7 @@ cf5d33be-ed8f-4d7f-abd2-5c465eeea6fc,stockexchange.mov,available,15.98,,high,low
 c3848b29-3dad-4873-a733-5ec6ea57c0db,musthave.mov,premium,161.25,,high,low,9,name.com,,,
 7ea8ecc5-1eb1-495b-a268-17b714d056a6,brought.mov,premium,36.25,,medium,low,7,name.com,,,
 091949f6-85d8-4e3c-944b-e987534e8981,join.mov,premium,73.75,,high,medium,4,name.com,,,
-2ba02c9e-d100-40d3-9be6-ebed9744e982,fond.mov,premium,311.25,311.25,high,low,4,name.com,,,
+2ba02c9e-d100-40d3-9be6-ebed9744e982,fond.mov,premium,323.7,323.7,medium,low,4,namecheap,,,21/09/2026 21:45
 3176b1bc-1032-4d41-a0a0-3fc256c9f1f7,hacking.mov,premium,73.75,,medium,low,7,name.com,,,
 a8ff9484-2b73-4dc7-be92-4f5268dfda94,boston.mov,premium,623.75,,high,low,6,name.com,,,
 6e9c39bc-9552-48e1-b62b-9f348b4fbcb1,banned.mov,premium,36.25,36.25,low,low,6,name.com,,,08/08/2026 13:44
@@ -514,7 +514,7 @@ cbc8e845-4934-4290-8e6c-5f85d01f7de4,televisionchannel.mov,available,15.98,,high
 0e75f75b-852d-42ca-aec8-bf7a855cd1cd,jan.mov,premium,311.25,,high,low,3,name.com,,,
 935773f6-0f7c-419d-9098-fcef3e753b14,glittering.mov,available,12.98,15.98,low,low,10,namecheap,,,
 5258eef0-b3c4-40f2-ba2f-5336e712be6b,country.mov,premium,311.25,,high,low,7,name.com,,,
-a5a28ab0-012d-4a6d-9aa2-e548b640181c,teenager.mov,premium,73.75,73.75,medium,low,8,name.com,,,
+a5a28ab0-012d-4a6d-9aa2-e548b640181c,teenager.mov,premium,76.7,76.7,low,low,8,namecheap,,,21/09/2026 19:08
 b844b535-11e9-4be7-8dfb-f742194bc69f,alated.mov,available,12.98,15.98,low,low,6,namecheap,,,
 47247c4e-cdce-4bf9-99c4-570b82b59b61,imustsay.mov,available,15.98,,medium,low,10,namecheap,,,
 4e0021b2-90c1-49b4-a8d0-3fa817f80f66,xciii.mov,available,12.98,15.98,low,low,5,namecheap,,,
@@ -523,7 +523,7 @@ b844b535-11e9-4be7-8dfb-f742194bc69f,alated.mov,available,12.98,15.98,low,low,6,
 44a9389a-3aeb-45ba-b761-1a294a687c0c,restriction.mov,available,15.98,,low,low,11,namecheap,,,
 d3bf25ce-6ac1-4814-b1b4-8610a762fe8c,tasks.mov,premium,623.75,,medium,low,5,name.com,,,
 dad3f91f-925a-483a-bc27-22a29be483a4,immense.mov,available,15.98,,high,low,7,namecheap,,,
-c39e7cd0-00ea-4ff3-ae5f-d4ceaa77cbab,automatic.mov,premium,73.75,,high,low,9,name.com,,,
+c39e7cd0-00ea-4ff3-ae5f-d4ceaa77cbab,automatic.mov,premium,76.7,76.7,medium,low,9,namecheap,,,22/09/2026 14:02
 270dd6e5-99fb-4364-ac0f-521d7417d2d7,grocery.mov,premium,1298.7,1298.7,medium,low,7,namecheap,,,08/09/2026 13:48
 960a3ac5-b70f-4be7-badd-5d01d40ed625,fit.mov,premium,1248.75,,high,medium,3,name.com,,,
 8d806665-9dd4-42e5-a9ab-16bc071e2e0b,sacked.mov,available,15.98,,medium,low,6,namecheap,,,
@@ -553,14 +553,14 @@ f75abfd2-951b-4a2d-aa89-8464b60b84ab,ascendent.mov,available,12.98,15.98,low,low
 27571749-6f42-427e-929b-5f4e69d8195c,inregardsto.mov,available,15.98,,medium,low,13,namecheap,,,
 b41c68b5-4e5c-4659-9596-21a4cf0fcf5e,marktwain.mov,available,15.98,,high,low,10,namecheap,,,
 7fbe6618-8310-4d71-ad13-a2579038d115,greenpark.mov,available,15.98,,medium,low,10,namecheap,,,
-37a09130-06f7-41c0-b19b-f13a4f97cb52,invigorate.mov,available,15.98,,high,low,10,namecheap,,,
+37a09130-06f7-41c0-b19b-f13a4f97cb52,invigorate.mov,available,12.98,15.98,medium,low,10,namecheap,,,22/09/2026 04:52
 458e5c1b-9dd8-4333-b2a2-30a57a419c11,wideopen.mov,available,15.98,,medium,low,9,namecheap,,,
 7f3ddba9-e3eb-42ab-8d26-0bcba8e9e584,ascensive.mov,available,12.98,15.98,low,low,9,namecheap,,,07/08/2026 00:46
-ebb049a9-f78d-4929-8360-7a9b1ae38eab,bounce.mov,premium,161.25,,high,low,6,name.com,,,
+ebb049a9-f78d-4929-8360-7a9b1ae38eab,bounce.mov,premium,167.7,167.7,medium,low,6,namecheap,,,23/09/2026 01:22
 f7590ec0-d4d0-41b6-be54-f798ce1f008c,hug.mov,premium,73.75,,high,low,3,name.com,,,
 9baf01fc-26fa-4724-84e6-1e60f6f55aeb,economical.mov,available,15.98,,medium,low,10,namecheap,,,
 7168ee97-ae87-4b5e-8b10-4e3367bd6783,wanted.mov,premium,623.75,,high,low,6,name.com,,,
-1f71970e-996c-4205-ba75-55677bb6ee47,learning.mov,premium,167.7,167.7,medium,low,8,namecheap,,,19/09/2026 05:11
+1f71970e-996c-4205-ba75-55677bb6ee47,learning.mov,premium,167.7,167.7,medium,low,8,namecheap,,,23/09/2026 03:00
 cec96849-fad4-4d3d-b081-892b8e794a89,prenominal.mov,available,12.98,15.98,low,low,10,namecheap,,,07/08/2026 15:56
 3f7fa4b8-94e2-41dd-8487-5b03f19b366e,heroic.mov,premium,36.25,,high,low,6,name.com,,,
 e3f26aa7-1637-48d0-8a0b-df5772c194cf,oddnumbered.mov,available,15.98,,low,low,12,namecheap,,,
@@ -580,11 +580,11 @@ c16616b1-ceeb-4f17-8066-dfae006c6eb8,fence.mov,premium,36.25,,high,low,5,name.co
 68757734-810a-4cd8-9669-a826395084e1,memory.mov,premium,623.75,,high,medium,6,name.com,,,
 a756bc6a-9674-461a-b1fb-ae5dda04eced,appetising.mov,available,12.98,15.98,low,low,10,namecheap,,,06/08/2026 06:50
 3c3bcf35-96a4-4ace-875c-e2ba9d82b264,considered.mov,available,15.98,,high,low,10,namecheap,,,
-013c3dbd-59b8-4485-a7bc-524b5e8b56ca,blacktie.mov,available,15.98,,medium,low,9,namecheap,,,
+013c3dbd-59b8-4485-a7bc-524b5e8b56ca,blacktie.mov,available,12.98,15.98,low,low,9,namecheap,,,22/09/2026 21:36
 a41bc5b5-d21a-4830-b979-978927d24695,chip.mov,premium,623.75,623.75,high,low,4,name.com,,,
 26307bb8-4151-4dab-83b3-55ef6cbc42c9,threescore.mov,available,12.98,15.98,low,low,10,namecheap,,,
 6748c9a4-7143-4325-8d2f-d07bd3b1ff0e,cold.mov,premium,311.25,,high,low,4,name.com,,,
-d0f7ad6f-17cd-4b2e-b030-fe8f1312a8e2,surrogate.mov,available,15.98,,high,low,9,namecheap,,,
+d0f7ad6f-17cd-4b2e-b030-fe8f1312a8e2,surrogate.mov,available,12.98,15.98,low,low,9,namecheap,,,22/09/2026 02:27
 73a660eb-dba8-421a-8af1-7f2e7284da94,airsick.mov,available,12.98,15.98,low,low,7,namecheap,,,
 b23cd8c5-c3be-4cf4-b024-ff143ccc3972,anorthic.mov,available,12.98,15.98,low,low,8,namecheap,,,
 b6520875-7582-43da-83ef-acb8b03bae44,welltimed.mov,available,12.98,15.98,low,low,10,namecheap,,,06/08/2026 10:13
@@ -603,7 +603,7 @@ f414b1af-3104-494d-8778-acb6a3c9d5a8,iamafraidofthis.mov,available,15.98,,medium
 9919fe1d-a88d-4008-aabe-663fcd05c4db,organic.mov,premium,167.7,167.7,medium,low,7,namecheap,,,08/09/2026 11:55
 c0a45b77-24dc-401d-ac1d-b50f0e209d6f,frustrate.mov,available,15.98,,high,low,9,namecheap,,,
 0b7d1810-66e7-436e-ad24-6ce8a82cad8f,labour.mov,premium,161.25,,medium,low,6,name.com,,,
-d57f3947-22af-41ce-b09b-11b1964eee5e,branded.mov,premium,37.7,37.7,high,low,7,namecheap,,,
+d57f3947-22af-41ce-b09b-11b1964eee5e,branded.mov,premium,37.7,37.7,low,low,7,namecheap,,,23/09/2026 02:22
 5a46c68f-1968-4370-9f88-9eaf09e2f9fb,axiom.mov,premium,73.75,,high,medium,5,name.com,,,
 ab66fdf0-3f04-4f12-9ea1-4e0cdb851528,needy.mov,available,15.98,,medium,low,5,namecheap,,,
 6e0ecdbc-85d8-4814-a465-00f0e8cb9e59,tiein.mov,available,12.98,15.98,low,low,6,namecheap,,,07/08/2026 06:59
@@ -622,8 +622,8 @@ a6b4cfbf-cc31-431b-9ca3-fe99fbcdd172,lithuania.mov,available,,,medium,low,9,,,,
 7437e000-6f03-4f59-8ab1-ee17ac995680,longitude.mov,available,15.98,,medium,low,9,namecheap,,,
 a0631132-d24a-45da-a814-b55f3e737fe5,streetlight.mov,available,15.98,,low,low,12,namecheap,,,
 a1d62925-5747-4790-b47f-f0a00671caec,letterruling.mov,available,15.98,,medium,low,13,namecheap,,,
-2545a15e-79e9-4b91-b6df-3ea5468b8c12,shrewd.mov,available,15.98,,medium,low,6,namecheap,,,
-bb4de803-bcb0-4377-862a-bbbdab953af8,distant.mov,premium,36.25,36.25,medium,low,7,name.com,,,
+2545a15e-79e9-4b91-b6df-3ea5468b8c12,shrewd.mov,available,12.98,15.98,low,low,6,namecheap,,,22/09/2026 10:37
+bb4de803-bcb0-4377-862a-bbbdab953af8,distant.mov,premium,37.7,37.7,low,low,7,namecheap,,,22/09/2026 02:03
 1d4bbeba-85b4-496e-9565-b436ba53808f,barefoot.mov,premium,73.75,73.75,low,low,8,name.com,,,08/08/2026 18:54
 55da7725-df74-4e2c-8728-d6ede7a23019,xxxiv.mov,available,12.98,15.98,low,low,5,namecheap,,,
 e0521246-33b6-4325-bdb6-dc033218a23f,technicality.mov,available,15.98,,medium,low,12,namecheap,,,
@@ -645,7 +645,7 @@ af52e445-3752-47db-9c97-37836bb2e470,fairly.mov,premium,73.75,,medium,low,6,name
 cae61dd9-258f-44e9-a48c-221c8c789466,affective.mov,available,12.98,15.98,medium,low,9,namecheap,,,
 226bf04d-f71c-4317-ab6d-c5d94fd70566,weave.mov,premium,73.75,,high,low,5,name.com,,,
 e17ca446-1255-4c4f-9a86-e9f3c1958c8d,intruth.mov,available,12.98,15.98,low,low,8,namecheap,,,19/09/2026 10:53
-42a777b2-7b81-4710-bc55-81bc77bf22ea,able.mov,premium,623.75,623.75,high,low,4,name.com,,,
+42a777b2-7b81-4710-bc55-81bc77bf22ea,able.mov,premium,648.7,648.7,medium,low,4,namecheap,,,21/09/2026 13:57
 e9b7d1da-8408-4cea-947e-b5012d707a03,perfervid.mov,available,12.98,15.98,low,low,9,namecheap,,,06/08/2026 16:29
 62f86821-15d8-4f24-9f45-5e729410455c,delivery.mov,premium,323.7,323.7,high,low,8,namecheap,,,
 70d54cc7-10d9-4bc5-be6e-07dddb561358,client.mov,premium,323.7,323.7,low,low,6,namecheap,,,19/09/2026 04:09
@@ -672,7 +672,7 @@ a40c1011-7f9a-4a69-9b91-32f48f7e73fb,anatomic.mov,available,12.98,15.98,low,low,
 8dd5aa82-d665-470e-912e-7d56156f2928,algonkian.mov,available,12.98,15.98,low,low,9,namecheap,,,
 c923e738-c0ea-40df-a998-84911cf33d5e,studyabroad.mov,available,15.98,,medium,low,12,namecheap,,,
 31392d98-db6c-4805-b948-d0155a70bcd3,grammar.mov,premium,161.25,,high,low,7,name.com,,,
-dc3d4e22-467f-4b67-841a-782119126601,firm.mov,premium,323.7,323.7,medium,low,4,namecheap,,,20/09/2026 02:35
+dc3d4e22-467f-4b67-841a-782119126601,firm.mov,premium,323.7,323.7,medium,low,4,namecheap,,,23/09/2026 04:32
 3aad20da-68c8-40ce-80fb-f661006a8546,revelation.mov,available,15.98,,medium,low,10,namecheap,,,
 ecf5951f-11a3-4782-856a-5735988a2dc8,clxxv.mov,available,12.98,15.98,low,low,5,namecheap,,,
 46238054-0dc5-4ac6-8ab7-731076e3ded4,rice.mov,premium,623.75,,high,low,4,name.com,,,
@@ -694,7 +694,7 @@ e8414024-a780-441b-beb8-dee23cf0c169,ego.mov,premium,161.25,,medium,low,3,name.c
 13255f2b-cea6-4068-8299-42c23287c10d,cypher.mov,premium,36.25,36.25,low,medium,6,name.com,,,
 30c92b9d-f914-41c0-b975-6229e50e62f5,antifungal.mov,available,12.98,15.98,low,low,10,namecheap,,,
 c430e15f-6e3f-49aa-a774-4f4ffff20810,alien.mov,premium,623.75,623.75,low,medium,5,name.com,,,
-caf366d1-ca4b-437b-91b1-a4f0754f2289,trade.mov,premium,648.7,648.7,medium,low,5,namecheap,,,19/09/2026 03:40
+caf366d1-ca4b-437b-91b1-a4f0754f2289,trade.mov,premium,648.7,648.7,medium,low,5,namecheap,,,23/09/2026 03:15
 db27ece0-1b63-4d7d-a323-3a08ce240cb3,burnunit.mov,available,15.98,,medium,low,9,namecheap,,,
 c6353f9d-be72-430e-9190-18c5719c5c31,schoolboard.mov,available,15.98,,high,low,12,namecheap,,,
 e3e87100-783f-4f3a-aef0-442977de2cd2,esurient.mov,available,12.98,15.98,low,low,8,namecheap,,,07/08/2026 23:25
@@ -712,13 +712,13 @@ f0429e27-4f40-47dc-a408-62b1143263e1,barshaped.mov,available,12.98,15.98,low,low
 5c966c3a-aa2f-4c54-9aa4-dae536a556d9,furious.mov,premium,36.25,36.25,low,low,7,name.com,,,
 8bd27622-c887-4cc2-a54c-5a51947fb3e9,england.mov,premium,311.25,,high,low,7,name.com,,,
 6d2bb591-287b-460b-8db6-0d192c65c0db,maledict.mov,available,12.98,15.98,low,low,8,namecheap,,,
-926b5f27-8522-4232-8a1e-50854a187b62,deep.mov,premium,623.75,623.75,high,medium,4,name.com,,,
+926b5f27-8522-4232-8a1e-50854a187b62,deep.mov,premium,648.7,648.7,low,low,4,namecheap,,,21/09/2026 15:15
 1534e1aa-d274-4eff-b9ef-66fa72c64d20,freshaspaint.mov,available,15.98,,medium,low,14,namecheap,,,
 9a8ba208-0434-4556-bfcc-545cd057a5fe,fling.mov,premium,36.25,,medium,low,5,name.com,,,
 cd4b6603-60e0-498d-ada9-9f6df56e46cc,veal.mov,available,15.98,,medium,low,4,namecheap,,,
-0dc4cca7-f59c-42de-85ba-d65720c00604,senior.mov,premium,311.25,311.25,high,low,6,name.com,,,
+0dc4cca7-f59c-42de-85ba-d65720c00604,senior.mov,premium,323.7,323.7,low,low,6,namecheap,,,21/09/2026 22:36
 67c7513d-56a1-46b2-ae5b-14ccf3b14873,coffeebreak.mov,available,15.98,,high,low,12,namecheap,,,
-e9197a6f-af47-40e1-bee2-b88fbe9b85f8,twentieth.mov,available,15.98,,high,low,9,namecheap,,,
+e9197a6f-af47-40e1-bee2-b88fbe9b85f8,twentieth.mov,available,12.98,15.98,medium,low,9,namecheap,,,21/09/2026 12:27
 d453ffa4-d8ea-4faa-8f5d-a9f726d10d62,barbellate.mov,available,12.98,15.98,low,low,10,namecheap,,,08/08/2026 16:57
 bb0ddf68-b167-4245-8e10-0739f0763900,alias.mov,premium,161.25,,high,low,5,name.com,,,
 9a73e68a-fd9b-4212-834a-0c6147499bc1,mmr.mov,premium,73.75,,high,low,3,name.com,,,
@@ -730,12 +730,12 @@ f66c7fa5-27be-4ce3-8f07-9b89ba3a6f7b,ashen.mov,available,12.98,15.98,low,low,5,n
 879e9090-99ef-482b-bb60-68fa778a4797,noble.mov,premium,311.25,311.25,medium,low,5,name.com,,,08/08/2026 20:18
 1e2ece8d-a785-4ede-a97f-9aeea984ca4e,feels.mov,premium,73.75,,high,low,5,name.com,,,
 e5a3203d-df8d-4e64-808e-f29423e25447,thirdperson.mov,available,15.98,,low,low,12,namecheap,,,
-f786b63c-e70f-4c4f-9680-b539724d4933,numb.mov,available,15.98,,high,low,4,namecheap,,,
-3c97f0fe-896e-4fc4-9f17-441cfaa0492a,adolescent.mov,available,15.98,,high,low,10,namecheap,,,
+f786b63c-e70f-4c4f-9680-b539724d4933,numb.mov,available,12.98,15.98,low,low,4,namecheap,,,22/09/2026 19:39
+3c97f0fe-896e-4fc4-9f17-441cfaa0492a,adolescent.mov,available,12.98,15.98,medium,low,10,namecheap,,,21/09/2026 19:03
 772ea01b-20e8-4479-ad01-2991f80049bd,hackneyed.mov,available,12.98,15.98,low,low,9,namecheap,,,08/08/2026 10:56
 faada6b1-03f4-45b4-9b48-31c4361de78e,copyrightsymbol.mov,available,15.98,,medium,low,16,namecheap,,,
 136651bf-11b0-4249-ae81-4d20e02614f0,pharmacy.mov,premium,161.25,,high,low,8,name.com,,,
-316deff3-a1aa-420c-8ab2-06f0ca4b16fe,clown.mov,premium,161.25,,high,low,5,name.com,,,
+316deff3-a1aa-420c-8ab2-06f0ca4b16fe,clown.mov,premium,167.7,167.7,medium,low,5,namecheap,,,22/09/2026 06:35
 2b46286a-39da-4154-a79a-1f57ea9c264d,floor.mov,premium,167.7,167.7,medium,low,5,namecheap,,,08/09/2026 02:52
 d47211c5-2ce5-428d-ab30-a1c21cccdb13,fish.mov,premium,73.75,,high,low,4,name.com,,,
 19d7056c-19c0-4bc1-bb18-65a1c7a5f12b,anabiotic.mov,available,12.98,15.98,low,low,9,namecheap,,,
@@ -757,7 +757,7 @@ ac3fc5c7-bca4-4eac-8ad9-fccd4c91560f,tossaway.mov,available,15.98,,medium,low,9,
 8a0e360c-4c51-4f1d-8004-e6d10cf62142,see.mov,premium,311.25,,high,low,3,name.com,,,
 92e7b6b7-8fd7-4532-afce-eb764337ea80,newfound.mov,available,12.98,15.98,low,low,9,namecheap,,,08/09/2026 04:48
 46917464-7818-45b6-86a8-80d841d75af8,lips.mov,premium,161.25,,medium,low,4,name.com,,,
-e39497de-750e-425a-a705-af82faad1cdb,rise.mov,premium,623.75,,medium,medium,4,name.com,,,
+e39497de-750e-425a-a705-af82faad1cdb,rise.mov,premium,648.7,648.7,low,low,4,namecheap,,,22/09/2026 09:12
 2c9d3e43-b50b-4440-bbf0-18fe245201d7,polyester.mov,premium,36.25,,high,low,9,name.com,,,
 545886a5-4904-420f-addc-f989f42e1686,principled.mov,available,15.98,,high,low,10,namecheap,,,
 64fdb627-8e73-41a5-8646-a6a88ecb5023,repel.mov,available,15.98,,high,low,5,namecheap,,,
@@ -769,7 +769,7 @@ d6992bbd-7bc3-4387-83aa-df31f24afa5e,radioactivity.mov,available,15.98,,low,low,
 01bcd1d3-388a-4116-bada-f3cf1f230df3,oldschool.mov,premium,161.25,,high,low,10,name.com,,,
 fd550490-995e-4311-98c6-cb1cb545140e,successes.mov,available,15.98,,low,low,9,namecheap,,,
 d67ea83d-eab3-4cae-8113-f6b5ebc07361,forget.mov,premium,311.25,,medium,low,6,name.com,,,
-127095ba-7d56-4cc0-9bdf-b629a672bfe0,adoring.mov,available,15.98,,high,low,7,namecheap,,,
+127095ba-7d56-4cc0-9bdf-b629a672bfe0,adoring.mov,available,12.98,15.98,medium,low,7,namecheap,,,21/09/2026 19:41
 8999927d-4346-4ec0-b6af-303cea1b603f,femalealpha.mov,available,15.98,,medium,low,12,namecheap,,,
 5db9280e-306f-4503-8712-c94dd2289e6a,modest.mov,premium,311.25,,high,low,6,name.com,,,
 115d70f9-8fa7-4752-969e-74396c7054d5,evenout.mov,available,15.98,,high,low,8,namecheap,,,
@@ -802,7 +802,7 @@ f1eb0eb8-97bc-4ed7-928e-ae2bcf8d7814,grievous.mov,available,12.98,15.98,low,low,
 486f9b93-4302-438f-a3d0-506286e10104,checklist.mov,premium,73.75,,high,low,9,name.com,,,
 24726ad1-dc56-49ea-a07a-139e82f8d7e5,puttogether.mov,available,15.98,,medium,low,12,namecheap,,,
 e477ab43-fcb7-4ea2-a412-215ab30a0fae,spurious.mov,available,12.98,15.98,low,low,8,namecheap,,,09/08/2026 00:03
-02e1308a-6b01-4250-9a4b-e87d1cf19cff,atrocious.mov,available,15.98,,medium,low,9,namecheap,,,
+02e1308a-6b01-4250-9a4b-e87d1cf19cff,atrocious.mov,available,12.98,15.98,low,low,9,namecheap,,,22/09/2026 11:11
 325e98fa-ad49-40dc-a796-34023834e53a,assessable.mov,available,16.99,18.99,low,low,10,name.com,,,07/08/2026 06:04
 224de086-4400-4439-879f-2697a55cb1cb,amnionic.mov,available,12.98,15.98,low,low,8,namecheap,,,
 2f6b32b1-ed56-4c3b-ac33-cfcd821e14ae,albinistic.mov,available,12.98,15.98,low,low,10,namecheap,,,
@@ -820,7 +820,7 @@ fbf86557-73f9-4a64-815d-3a9e8bded6e9,thorny.mov,available,12.98,15.98,low,low,6,
 2c86f3f0-d28e-40ed-9951-aafe1534e514,add.mov,premium,623.75,,high,low,3,name.com,,,
 f5dab94a-1169-4f9c-85ea-67004920d787,prodigy.mov,premium,36.25,,high,low,7,name.com,,,
 4b510c86-6788-417e-b7ba-f1d2631620ac,amphibious.mov,available,12.98,15.98,low,low,10,namecheap,,,
-3d7255ea-1a5e-4f19-820d-f825a70e6aa2,wealthy.mov,premium,36.25,36.25,high,low,7,name.com,,,
+3d7255ea-1a5e-4f19-820d-f825a70e6aa2,wealthy.mov,premium,37.7,37.7,medium,low,7,namecheap,,,21/09/2026 21:57
 3e7799b3-8236-4f73-89db-fafa0611c02a,washing.mov,premium,73.75,,high,low,7,name.com,,,
 5048c881-5481-4c06-8a69-b8fefd609cdc,christ.mov,premium,623.75,,high,low,6,name.com,,,
 c958f311-1b9a-4d9e-aefe-68db4b7cec05,mixing.mov,premium,161.25,,high,low,6,name.com,,,
@@ -834,7 +834,7 @@ f1596704-408f-4b2b-81bc-8371e6a5493a,bellicose.mov,available,12.98,15.98,low,low
 4860c884-0296-45f6-9f7e-c6d8a381e62f,year.mov,premium,311.25,,high,low,4,name.com,,,
 8806f813-299f-4d98-8203-46e018ff221d,accusative.mov,available,12.98,15.98,low,low,10,namecheap,,,
 e6a44590-e273-4ef2-9a32-2bfc51eb3b15,level.mov,premium,623.75,,high,low,5,name.com,,,
-8985e74b-7597-45de-b911-392dbf2ea824,keen.mov,premium,73.75,,medium,low,4,name.com,,,
+8985e74b-7597-45de-b911-392dbf2ea824,keen.mov,premium,76.7,76.7,low,low,4,namecheap,,,22/09/2026 16:55
 2a989aba-f064-4c7e-a44b-126545e28b74,promising.mov,available,15.98,,high,low,9,namecheap,,,
 8c88ec36-290a-4b44-8d47-c0d52a409737,restless.mov,available,15.98,,medium,low,8,namecheap,,,
 06029df1-dac2-4145-8c20-3467e99fbf64,quaternary.mov,available,12.98,15.98,low,low,10,namecheap,,,
@@ -877,7 +877,7 @@ a97a0dd4-57ba-4ad3-998a-eae2adbc3fb4,poker.mov,premium,1248.75,,high,medium,5,na
 ed00c62e-954b-4bfa-af34-742104b7ba85,jesuschrist.mov,premium,36.25,,high,low,12,name.com,,,
 f83c5ad9-6597-4204-b9cb-d4c7d767464f,buttony.mov,available,12.98,15.98,low,low,7,namecheap,,,09/08/2026 03:34
 d14a5089-b600-459f-ba66-ad2e049c2758,fortyfour.mov,available,12.98,15.98,low,low,10,namecheap,,,
-e7493c89-984f-475b-89b7-89cb2327253e,adaptative.mov,available,15.98,,high,low,10,namecheap,,,
+e7493c89-984f-475b-89b7-89cb2327253e,adaptative.mov,available,12.98,15.98,medium,low,10,namecheap,,,21/09/2026 16:59
 5cc87274-72c8-42cf-bf12-2bd82043edf6,canada.mov,available,,,high,low,6,,,,
 c7d2b80a-17c4-4617-8ff4-98bd6eeeda6b,these.mov,premium,161.25,,medium,low,5,name.com,,,
 4a3d8dac-8610-4b83-aa40-281ba491ff63,blackthursday.mov,available,15.98,,medium,low,14,namecheap,,,
@@ -888,7 +888,7 @@ d9fbc4ea-a6bf-4549-a2c7-6cb917c1843c,useful.mov,premium,311.25,,high,low,6,name.
 7dcb0091-f78d-461f-bec7-1f8904625372,anticipant.mov,available,12.98,15.98,low,low,10,namecheap,,,
 06769eee-69d1-4dd4-89ca-a74af30951ac,dad.mov,premium,623.75,,high,low,3,name.com,,,
 fa86e4d3-34b2-4b1b-8639-fb95ef86d741,antenna.mov,premium,161.25,,high,low,7,name.com,,,
-327c6a47-99e2-4476-a408-c244cb1d736e,loft.mov,premium,73.75,,medium,low,4,name.com,,,
+327c6a47-99e2-4476-a408-c244cb1d736e,loft.mov,premium,76.7,76.7,low,low,4,namecheap,,,22/09/2026 11:37
 2c845f85-4c23-444c-90d5-eb300960c6a3,lettherebelight.mov,available,15.98,,medium,low,18,namecheap,,,
 c8326b42-3212-483f-9fc9-8fc55980773c,map.mov,premium,1298.7,1298.7,high,medium,3,namecheap,,,
 15e6b75e-1e0d-4ca3-94b3-00dc2032ae4f,ribald.mov,available,12.98,15.98,low,low,6,namecheap,,,09/08/2026 02:15
@@ -918,13 +918,13 @@ ae868728-c12c-41dc-ba1a-c9733e03cc88,telephonecall.mov,available,15.98,,medium,l
 467e402e-6c6e-41e9-8ac2-cd95a02691cb,postaladdress.mov,available,15.98,,medium,low,14,namecheap,,,
 fc22aa98-c9a7-4691-ad8d-4c7af191afc7,briery.mov,available,12.98,15.98,low,low,6,namecheap,,,08/08/2026 17:07
 06ddf9ec-9c21-4d26-a80e-b9e965840a82,silverpolish.mov,available,15.98,,low,low,13,namecheap,,,
-b61ac77f-4ee0-457f-914c-be9258b1a9b4,additional.mov,premium,36.25,36.25,high,low,10,name.com,,,
+b61ac77f-4ee0-457f-914c-be9258b1a9b4,additional.mov,premium,37.7,37.7,medium,low,10,namecheap,,,21/09/2026 17:14
 40519a3c-0595-43f2-8d48-f877ad7d2dce,bellyshirt.mov,available,15.98,,high,low,11,namecheap,,,
 91f14813-2c34-480d-be0b-681bce863a7d,adhesive.mov,premium,36.25,36.25,low,low,8,name.com,,,
 3dc98170-c74c-43cf-b3d6-047960f63166,park.mov,premium,623.75,,high,low,4,name.com,,,
 7b8cb17f-8258-4354-98f6-ded2d75aebdb,hardfeelings.mov,available,15.98,,medium,low,13,namecheap,,,
 d5abf9c7-a127-40a0-9f03-b507f7cd9d9a,whatisthat.mov,available,15.98,,low,low,12,namecheap,,,
-2dee73cb-f2e9-4f67-b793-cec20db80f66,severe.mov,premium,36.25,,medium,low,6,name.com,,,
+2dee73cb-f2e9-4f67-b793-cec20db80f66,severe.mov,premium,37.7,37.7,low,low,6,namecheap,,,22/09/2026 13:18
 860936d1-811d-441a-b52e-a436fd8412e0,attheready.mov,available,15.98,,high,low,12,namecheap,,,
 bce1b221-8612-4e8f-b5d1-14716ff46fc5,comeintoforce.mov,available,15.98,,high,low,15,namecheap,,,
 962f1355-f773-4fe8-9dec-29f3158d12e4,blossom.mov,premium,311.25,,high,low,7,name.com,,,
@@ -936,7 +936,7 @@ bce1b221-8612-4e8f-b5d1-14716ff46fc5,comeintoforce.mov,available,15.98,,high,low
 9d027926-cc85-415c-9cbb-36cbdef2b41d,airheaded.mov,available,12.98,15.98,low,low,9,namecheap,,,
 29d1e1f2-b192-4be0-b005-2d6e43d81a14,circinate.mov,available,,,medium,low,9,,,,
 dc80d6cb-6508-4016-822f-699e1a14a8dd,constantly.mov,available,15.98,,medium,low,10,namecheap,,,
-56541c45-19a7-4a28-9c05-fadd30e2b6db,assisted.mov,premium,36.25,36.25,medium,low,8,name.com,,,
+56541c45-19a7-4a28-9c05-fadd30e2b6db,assisted.mov,premium,37.7,37.7,low,low,8,namecheap,,,21/09/2026 23:41
 94cca435-6cb1-4a55-a32b-f5e32aecb673,quivive.mov,available,12.98,15.98,low,low,8,namecheap,,,
 7de670e6-97ac-43db-ad15-daf4038780fe,haywire.mov,available,12.98,15.98,low,low,7,namecheap,,,
 cf023ec9-7609-4a9c-8904-0c7b7e7af700,astheysay.mov,available,15.98,,medium,low,11,namecheap,,,
@@ -945,13 +945,13 @@ c448055c-41e0-49b8-af24-5f086094a3e3,gal.mov,premium,73.75,,medium,low,3,name.co
 d842d8e4-8b86-4280-9fe6-5562b070d7b8,apologize.mov,available,15.98,,high,low,9,namecheap,,,
 9e28f675-86fb-4c1a-86c2-905509c93850,grandparent.mov,available,12.98,15.98,medium,low,11,namecheap,,,19/09/2026 04:27
 17cfb3db-fa5f-4383-a9ff-4aeb8166b596,write.mov,premium,623.75,,high,low,5,name.com,,,
-85b06cc4-1145-49b1-a9cf-5a9fd2601791,grand.mov,premium,623.75,623.75,high,low,5,name.com,,,
+85b06cc4-1145-49b1-a9cf-5a9fd2601791,grand.mov,premium,648.7,648.7,low,low,5,namecheap,,,21/09/2026 11:05
 5eab95ea-d207-4ee9-a29a-429cf7d18fc3,banking.mov,premium,323.7,323.7,high,low,7,namecheap,,,
-1be4baee-b6cf-4821-81ee-11fe5e8e8b0f,antepartum.mov,available,15.98,,high,low,10,namecheap,,,
+1be4baee-b6cf-4821-81ee-11fe5e8e8b0f,antepartum.mov,available,12.98,15.98,medium,low,10,namecheap,,,22/09/2026 06:01
 47bc1f21-bfcc-4480-bd6e-e30e529ba011,lose.mov,premium,161.25,,medium,low,4,name.com,,,
 49a2fbcc-5ac1-4d28-9a27-075e900521bc,actable.mov,available,12.98,15.98,low,low,7,namecheap,,,
 cdc9f363-f6d5-4433-a756-f3232adc38e2,primary.mov,premium,161.25,,high,low,7,name.com,,,
-bad88dc2-d45a-49ce-a6db-0ceb49deb8fc,astute.mov,available,15.98,,high,low,6,namecheap,,,
+bad88dc2-d45a-49ce-a6db-0ceb49deb8fc,astute.mov,available,12.98,15.98,low,low,6,namecheap,,,22/09/2026 10:35
 a5d2df27-71c7-4da5-9320-1db00e82c5c3,rubbishbin.mov,available,15.98,,medium,low,11,namecheap,,,
 bce087a3-7398-43df-95f3-1b8d4e03b8ca,inbrief.mov,available,15.98,,medium,low,8,namecheap,,,
 9cc4cc85-3aeb-41cf-94fd-258cb33a10b9,seeds.mov,premium,623.75,,low,low,5,name.com,,,
@@ -991,7 +991,7 @@ f4ee36e4-acfe-4818-919a-03f5e6fca1ac,primarily.mov,available,15.98,,medium,low,9
 b04a02b2-6246-4c41-84f3-88cc2eb56853,detecting.mov,available,15.98,,medium,low,9,namecheap,,,
 68253f58-fd15-4f95-9477-775265089356,queen.mov,premium,311.25,,high,low,5,name.com,,,
 657dc2e4-3521-48cc-9cc9-a704ad678691,sleepwith.mov,available,15.98,,low,low,10,namecheap,,,
-f678984b-6670-468d-a4b9-f14d5319eab3,capable.mov,premium,161.25,161.25,high,low,7,name.com,,,
+f678984b-6670-468d-a4b9-f14d5319eab3,capable.mov,premium,167.7,167.7,medium,low,7,namecheap,,,21/09/2026 18:33
 488f870a-5baa-498b-a6a5-6a9b0e147747,gardencentre.mov,available,15.98,,high,low,13,namecheap,,,
 ed9d045e-f8db-4609-86d6-4a07fc8a7642,continuous.mov,premium,36.25,36.25,high,low,10,name.com,,,
 bb40f449-9919-4d9d-a090-344faa9b34c0,disgrace.mov,available,15.98,,high,low,8,namecheap,,,
